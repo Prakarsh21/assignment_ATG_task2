@@ -1,0 +1,10 @@
+2025-06-23 21:47:12,952 - INFO - Using device: cuda
+2025-06-23 21:47:12,955 - INFO - Logging system initialized - this should appear in file
+2025-06-23 21:59:27,885 - INFO - Input text: The movie was painfully slow and boring.
+2025-06-23 21:59:27,961 - INFO - [InferenceNode] Predicted: POSITIVE | Confidence: 51.66%
+2025-06-23 21:59:27,973 - INFO - [ConfidenceCheckNode] Confidence too low. Triggering fallback...
+2025-06-23 21:59:59,715 - INFO - [FallbackNode] User feedback: it was definitely negative.
+2025-06-23 21:59:59,719 - INFO - Final decision: NEGATIVE
+2025-06-23 21:59:59,721 - INFO - --------------------------------------------------
+025-06-23 21:59:59,719 - INFO - Final decision: NEGATIVE
+2025-06-23 21:59:59,721 - INFO - --------------------------------------------------
