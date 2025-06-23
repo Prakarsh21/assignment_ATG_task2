@@ -23,7 +23,7 @@ This project implements a robust text classification pipeline with self-healing 
 
 ## How to Run
 1. **Open in Google Colab**:
-   - Use the provided notebook: `self_healing_classification.ipynb`
+   - Use the provided notebook: `healme.ipynb`
    - Ensure GPU acceleration is enabled (Runtime → Change runtime type → T4 GPU)
 
 2. **Execute the Workflow**:
