@@ -1,5 +1,5 @@
 # Self-Healing Classification System with LangGraph
-## If healme.ipynb file's preview is not avaiable just open the colab file from this link : 
+## If healme.ipynb file's preview is not avaiable just open the colab file from this link : https://colab.research.google.com/drive/1wT_P8MX13euvzZOMPs3nj1YJjInLnNXY?usp=sharing
 
 ## Project Overview
 This project implements a robust text classification pipeline with self-healing capabilities using LangGraph. The system fine-tunes a DistilBERT transformer model with LoRA (Low-Rank Adaptation) for efficient training, and incorporates a confidence-based fallback mechanism to handle low-prediction confidence scenarios. When the model is uncertain about its prediction, it engages the user for clarification, ensuring higher accuracy through human-in-the-loop interaction.
